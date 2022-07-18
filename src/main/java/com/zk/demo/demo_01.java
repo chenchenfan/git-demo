@@ -7,5 +7,9 @@ public class demo_01 {
         System.out.println("上传到远程库");
         System.out.println("已上传到远程库");
         System.out.println("已上传到远程库");
+        System.out.println("远程库修改的");
+        System.out.println("远程库修改的");
+        System.out.println("远程库修改的");
+        System.out.println("远程库修改的");
     }
 }
